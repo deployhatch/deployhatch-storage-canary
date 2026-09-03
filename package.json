@@ -1,0 +1,12 @@
+{
+  "name": "deployhatch-storage-canary",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Disposable Deploy Hatch runtime storage enforcement canary",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
